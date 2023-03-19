@@ -19,9 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# calculator_frontend_vue
->>>>>>> 1432221d910c1305e6593e20ee26ab4140f3b4f0
