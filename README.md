@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculator_frontend_vue
 
 ## Project setup
